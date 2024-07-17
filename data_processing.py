@@ -20,3 +20,12 @@ def multiplicatoin(a,b):
   return b
 
 print("Multiple function",b)
+
+
+
+def sum(a, b):
+    c = a + b
+    return l
+
+result = sum(a, b)
+print("sum", result)
